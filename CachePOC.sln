@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache.POC.Driver", "Cache.POC.Driver\Cache.POC.Driver.csproj", "{E34C1B8C-1684-4379-8B88-BBF8F8D5AE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache.POC.Library", "Cache.POC.Library\Cache.POC.Library.csproj", "{545C5227-FA5A-47C4-A251-E802A79248FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34C1B8C-1684-4379-8B88-BBF8F8D5AE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34C1B8C-1684-4379-8B88-BBF8F8D5AE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34C1B8C-1684-4379-8B88-BBF8F8D5AE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34C1B8C-1684-4379-8B88-BBF8F8D5AE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545C5227-FA5A-47C4-A251-E802A79248FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545C5227-FA5A-47C4-A251-E802A79248FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545C5227-FA5A-47C4-A251-E802A79248FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545C5227-FA5A-47C4-A251-E802A79248FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49276B21-0B92-4306-B1BD-FDD4DAFE7E0C}
+	EndGlobalSection
+EndGlobal
